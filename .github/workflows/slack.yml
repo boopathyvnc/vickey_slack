@@ -65,4 +65,3 @@ jobs:
           PR_TITLE="Automated PR: Terraform Deployment"
           PR_BODY="This pull request merges the latest changes from the slack branch after a successful Terraform deployment."
           gh pr create --title "$PR_TITLE" --body "$PR_BODY" --base main --head slack
-
