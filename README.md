@@ -1,4 +1,6 @@
-# vicky_slack
+# vicky_slack_fun
+
+hi
 \
 \
 /
@@ -7,9 +9,6 @@ hi this is git hub action yaml file for the slack notification
 /
 /
 \
-
-hi
 \
 
-byeeee hiii
-hi
+byeeee hiiii
